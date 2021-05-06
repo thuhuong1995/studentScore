@@ -48,7 +48,7 @@ function renderList(listStudent) {
           <td> ${student.scores.chemistry}</td>
           <td> ${student.scores.biology}</td>
           <td><p>${student.totalScore}</p></td>
-          <td><p id = "reward">${bonus(index)}</p></td>
+          <td><p id = "reward">${student.bonus}</p></td>
       </tr>
       `)
   );
