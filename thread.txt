@@ -18,3 +18,4 @@ tìm bạn có điểm văn thấp nhất => OK
 
 Với mỗi điểm trên 8, trên 9 và 10 lần lượt được thưởng 1m, 2m và 5m. => OK
 Tính số tiền thưởng của các bạn => OK
+
